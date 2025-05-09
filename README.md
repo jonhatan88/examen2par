@@ -5,4 +5,6 @@ pantallas a tomar 1.- pantalla donde ya tienen el repositorio. 2.- pantalla de l
 6.- convertir tu archivo en pdf y subirlo a classroom.
 
 
+perez morales jonhatan 
 
+lopes lopes monserrat 
